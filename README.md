@@ -48,7 +48,7 @@ O sistema deverá gerar um relatório com informações específicas após a exe
 #### 3. Clonar o repositório:
 
 ```
-git clone git@github.com:raphapaulino/pos-graduacao-goexpert-desafio-tecnico-2-stress-test
+git clone git@github.com:raphapaulino/pos-graduacao-goexpert-desafio-tecnico-2-stress-test.git
 ```
 
 #### 4. Instalar o Docker no sistema operacional:
