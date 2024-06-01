@@ -39,15 +39,19 @@ O sistema deverá gerar um relatório com informações específicas após a exe
 
 #### 1. Instalar o GO no sistema operacional:
 
-É possível encontrar todas as instruções de como baixar e instalar o GO nos sistemas operacionais Windows, Mac ou Linux [aqui](https://go.dev/doc/install).
+É possível encontrar todas as instruções de como baixar e instalar o `GO` nos sistemas operacionais Windows, Mac ou Linux [aqui](https://go.dev/doc/install).
 
-#### 2. Clonar o repositório:
+#### 2. Instalar o Git no sistema operacional:
+
+É possível encontrar todas as instruções de como baixar e instalar o `Git` nos sistemas operacionais Windows, Mac ou Linux [aqui](https://www.git-scm.com/downloads).
+
+#### 3. Clonar o repositório:
 
 ```
 git clone git@github.com:raphapaulino/pos-graduacao-goexpert-desafio-tecnico-2-stress-test
 ```
 
-#### 3. Instalar o Docker no sistema operacional:
+#### 4. Instalar o Docker no sistema operacional:
 
 É possível encontrar todas as instruções de como baixar e instalar o Docker nos sistemas operacionais Windows, Mac ou Linux [aqui](https://docs.docker.com/engine/install/).
 
@@ -72,6 +76,18 @@ docker run stresstestapp --url=https://noticias.uol.com.br --requests=100 --conc
 
 Os testes acima irão gerar resultados semelhantes a esses:
 
-![Teste de Carga - Google](doc-images/20240601_092948.png "Title")
+![Teste de Carga - Google](doc-images/20240601_092948.png "Teste de carga exemplo 1")
 
-![Teste de Carga - Uol Notícias](doc-images/20240601_093026.png "Title")
+![Teste de Carga - Uol Notícias](doc-images/20240601_093026.png "Teste de carga exemplo 2")
+
+
+That's all folks! : )
+
+
+## Contacts
+
+[LinkedIn](https://www.linkedin.com/in/raphaelalvespaulino/)
+
+[GitHub](https://github.com/raphapaulino/)
+
+[My Portfolio](https://www.raphaelpaulino.com.br/)
